@@ -5,6 +5,7 @@ São Paulo, SP, Brasil
 
 ![alansms GitHub stats](https://github-readme-stats.vercel.app/api?username=alansms&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alansms&layout=compact)
+
 ![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 
 ## Hi there 👋
